@@ -8,6 +8,9 @@
 ## Guide
 1. Run index.html to execute the program
 2. Click on either of two buttons is highlighted in yellow below
+![alt](imgGuide.png)
 3. As a result 
+![alt](imgResult.png)
+
 
 
